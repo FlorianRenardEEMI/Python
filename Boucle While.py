@@ -16,4 +16,4 @@ while i < 10: # Tant que i est strictement inférieure à 10
 # 8 * 7 = 56
 # 9 * 7 = 63
 # 10 * 7 = 70
-# on remarque la multiplication 0*7 ne s'affiche pas.
+# on remarque que la multiplication 0*7 ne s'affiche pas.
